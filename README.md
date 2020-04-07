@@ -5,4 +5,5 @@ Made a simple movie booking system in which customer can register, login, book m
 Technology stack 
 
 Java Swing
+
 MySQL
